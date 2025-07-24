@@ -1,6 +1,6 @@
 #  MNIST Neural Network from Scratch using NumPy
 
-This repository contains a clean, from-scratch implementation of a simple neural network for digit classification using the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). The entire training pipeline — from data preprocessing to forward/backward propagation and evaluation — is built using **pure NumPy**.
+This repository contains a clean, from-scratch implementation of a simple neural network for digit classification using the [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset). The entire training pipeline — from data preprocessing to forward/backward propagation and evaluation — is built using **pure NumPy**.
 
 ---
 
